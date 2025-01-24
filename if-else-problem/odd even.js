@@ -1,9 +1,9 @@
-var number = 2;
+var number = 3;
 
 if (number % 2 == 0)
 {
-    console.log(number + ' ' + 'is even')
+    console.log("Even")
 }
 else {
-    console.log(number + ' ' + 'is odd')
+    console.log("Odd")
 }
